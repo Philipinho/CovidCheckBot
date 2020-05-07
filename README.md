@@ -1,0 +1,3 @@
+# CovidCheckBot
+
+CovidCheckBot core backend.
